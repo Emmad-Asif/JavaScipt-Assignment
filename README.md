@@ -1,1 +1,1 @@
-# JavaScipt-Assignment
+# JavaScipt-Assignment 1
