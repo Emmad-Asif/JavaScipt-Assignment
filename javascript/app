@@ -1,0 +1,87 @@
+// // // //  alert("Thanks for your Message");
+// // // // alert ( "Hello World" );
+// // // // alert("Well Come To cyberTrones");
+
+// // // // var name ="Emmad";
+// // // // alert(name);
+// // // // var a = 90;
+// // // // var b = 40;
+// // // // var c = a - b;
+// // // // var c = a + b;
+// // // // var c = a * b;
+// // // // var c = a / b;
+// // // // alert(c);
+
+// // // // var thanx = "Thanks for your Feedback!"
+// // // // alert("Thanks for your input!");
+// // // // alert(thanx)
+
+// // // // var xyz = 90
+// // // // var sum = xyz + 90
+// // // // // alert(sum)
+
+
+// // // // var ab = 150
+// // // // ab = ab -80 
+// // // // alert (ab) 
+
+// // // // var cyberkeyx //legal
+// // // // var emmad123//legal
+// // // // var @ammad // illilegal
+// // // // var 21abc // illilegal
+// // // //var _emmad//legal
+// // // //var -123//illilegal
+
+
+// // // var hamza = 4 * 9
+// // // alert(4*9)
+
+// // // var sub = 90 + 3
+// // // alert(sub)
+
+// // // var abc = 78 - 21
+// // // alert (abc)
+// // // var mad = 909 / 6
+// // // alert (mad)
+
+// // // var num = 200
+// // // var sup = ++num
+// // // alert (sup)
+
+// // var num = 200
+// // var sub = num++
+// // alert (sub)
+
+// // var num = 5;
+// // var newNum = --num;
+// // alert(newNum)
+
+// // var num = 5;
+// // var nove = num--;
+// // alert(nove)
+
+
+// // // var abc = 90
+// // // var xyz = num++ - abc+ --num 
+// // // alert (xyz)
+
+
+// var cost = 1 + (3 * 7);
+// alert(cost)
+
+// var total = (5 + 3) / 9;
+// alert(total)
+// var sam = (2 * 4) / 4 + 2;
+// alert (sam)
+
+// alert("Well come");
+// var Message = "thanks for coming"
+// alert(Message)
+// var  Name = "Emmad"
+// alert("Thanks, " + Name + "!");
+
+var message = "hamza,";
+var van = "Hunza,";
+var ban = "!";
+var mess = message + van + ban;
+alert(mess)
